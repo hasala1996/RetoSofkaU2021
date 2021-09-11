@@ -58,3 +58,6 @@ class Category():
             else:
                 print("Haz fallado, la respuesta correcta es:", str(answers[4]) + "!")
                 return False
+        else: 
+            print('Tu respuesta no se reconoce como válida, tu juego a finalizado')
+            return False
