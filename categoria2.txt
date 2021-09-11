@@ -1,0 +1,5 @@
+Cual es la capital de EEUU?[Washington,Dalas,Delaware,Louisiana,Washington
+Cual es la Capital de Argentina?[Bogota,BuenosAires,Londres,CDMX,BuenosAires
+Cual es la Capital de Ecuador?[Quito,LaPaz,Asuncion,Rancagua,Quito
+Cual es la Capital de Inglatera?[Paris,Londres,Alpes,Neiva,Londres
+Cual es la capital de Egipto?[Libia,Paris,Londres,Cairo,Cairo
