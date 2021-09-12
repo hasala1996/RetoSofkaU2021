@@ -1,9 +1,12 @@
 # RetoSofkaU2021
 Este repositorio contiene el Challange Sofka 2021. Proyecto para juego de preguntas de seleccion multiple con unica respuesta, en Python.
 Se utiliza la Programacion Orientada a Objetos, se emplean librerias como pandas para cargar el archivo de Excel como base de datos.
-Es importante tener el archivo de Excel cerrado mientras se ejecuta la aplicacion, cada ves que se termine de ejecutar, la aplicacion
+Es importante tener el archivo Base_Datos_Jugadoros_Historicos.xlsx cerrado mientras se ejecuta la aplicacion, cada vez que se termine de ejecutar, la aplicacion
 guardara los registros historicos en este archivo de Excel y tambien los mostrará en consola.
 Cuando la aplicacion no se esté ejecutando, se puede consultar el archivo de excel.
+El archivo principal es ChallangeSofka.py, correr este archivo para iniciar el juego.
+categoria1.text, categoria2.text,categoria3.text,categoria4.text,categoria5.text, contienen las pregutnas y respuestas de cada nivel.
+
 Funcionalidades:
 1. Registro de datos del jugador : nombre,apellidos, puntaje obtenido, nivel alcanzado
 2. Seleccion de preguntas aleatorias dependiendo del nivel de dificultad.
