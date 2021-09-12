@@ -1,0 +1,5 @@
+En que año se derribo el muero de berlin?[2000,1589,1989,2021,1989
+En que año termino la guerra fria?[1991,2007,2015,2016,1991
+En que año inicio la guerra fria?[1947,2001,1880,1980,1947
+En que año murio A.Hitler?[2021,2020,1945,1789,1945
+Que edad tenia Hitler cuando murio?[80,30,56,32,56

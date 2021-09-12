@@ -1,0 +1,5 @@
+Cual es el nombre del presidente de Colombia?[Uribe,Duque,Santos,Borrero,Duque
+Cual es el nombre del presidente de EEUU?[Obama,Nairo,JoeBiden,Uribe,JoeBiden
+Cual es el nombre del futbolista Messi?[Leonel,Eduardo,Carlos,Pedro,Leonel
+Cual es el nombre del futbolista Riquelme?[Luis,Roman,Pedro,Hamilton,Roman
+Cual es el nombre del futbolista Rodallega?[Jose,Carlos,Hugo,Luis,Hugo

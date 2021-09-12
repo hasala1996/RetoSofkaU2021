@@ -1,0 +1,5 @@
+En cual equipo juega Leonel Messi?[Santos,Huila,PSG,Madrid,PSG
+En cual equipo juega Cristiano Ronaldo?[Mexico,Manchester,Madrid,PSG,Manchester
+En cual seleccion jugo Maradona?[Argentina,Colombia,Mexico,Brazil,Argentina
+En cual seleccion jugo el Pibe?[Mexico,Colombia,Rusia,USA,Colombia
+En cual seleccion jugo Ronaldinho?[Colombia,Chile,Egipto,Brazil,Brazil
