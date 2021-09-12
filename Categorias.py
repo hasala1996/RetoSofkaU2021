@@ -3,21 +3,16 @@ import time
 
 class Category():
     
-    def __init__(self,ctgria):
+    def __init__(self,ctgria):                                   #constructor de la clase Category
         self.nume=ctgria
-        self.answer= None
-        
+        self.answer= None   
 
-    def obtenerdoc(self):
+    def obtenerdoc(self):                                       # metodo para obtener del documento,toda la info 
         listaPregunta = list(open("categoria%s.txt"%self.nume))
-        self.obtenerPregResp(listaPregunta)
+        self.obtenerPregResp(listaPregunta)    
         
-        
-        
+    def obtenerPregResp(self,listaPregunta):                    # metodo para obtener del documento,la lista de pregutas y respuesta
 
-    def obtenerPregResp(self,listaPregunta):
-        #listaPregunta = list(open("categoria1.txt"))
-        #document = list(open("categoria1.txt"))
         data = listaPregunta.pop(random.randint(0,len(listaPregunta) - 1))
         items = data.split('[')
         global question
@@ -48,7 +43,7 @@ class Category():
         'D' : answers[3],
         }
     
-    def validarRespuesta(self,respuesta):
+    def validarRespuesta(self,respuesta):       # metodo para validar respuestas ingresadas 
 
         if respuesta in listaR:
             if listaR[respuesta] == answers[4]:
